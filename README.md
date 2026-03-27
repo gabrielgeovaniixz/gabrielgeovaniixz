@@ -20,7 +20,7 @@ Também busco constantemente evoluir na área de **IA aplicada a problemas reais
     <img src="https://img.shields.io/badge/LinkedIn-GABRIEL%20GEOVANI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gabrielgeovani.contat@email.com">
-    <img src="https://img.shields.io/badge/Email-CONTATO-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-gabrielgeovani.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
