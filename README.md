@@ -1,4 +1,4 @@
-#  Olá, eu sou Gabriel Geovani
+Olá, eu sou Gabriel Geovani
 
 🚀 **Desenvolvedor Full Stack | Web | Automações | IA**
 🇧🇷 Brasília - DF
@@ -25,7 +25,7 @@ Busco minha **primeira oportunidade como Desenvolvedor Júnior**, enquanto desen
 
 
 
-## 🧠 Sobre mim
+🧠 Sobre mim
 
 * 🎯 2 anos de estudo em desenvolvimento
 * 💻 Experiência prática com projetos web e sistemas
@@ -35,7 +35,7 @@ Busco minha **primeira oportunidade como Desenvolvedor Júnior**, enquanto desen
 
 
 
-## 🛠️ Tecnologias
+🛠️ Tecnologias
 
 <div align="left">
 
@@ -57,52 +57,50 @@ Busco minha **primeira oportunidade como Desenvolvedor Júnior**, enquanto desen
 
 
 
-## 💼 Experiência
+💼 Experiência
 
-**🧾 Agência Contábil — Estagiário (2024)**
+🧾 Agência Contábil — Estagiário (2024)**
 
 * Desenvolvimento de relatórios e planilhas
 * Organização de documentos e contratos
 
-**💻 Kayrós Link — Estagiário (2025)**
+💻 Kayrós Link — Estagiário (2025)**
 
 * Suporte técnico remoto
 * Configuração de acessos
 * Resolução de problemas de conexão
 
-**🖨️ WN Copiadora — CLT (Atual)**
+🖨️ WN Copiadora — CLT (Atual)**
 
 * Operação de impressão e produção gráfica
 * Criação e ajustes de artes (Canva / CorelDRAW)
 
 
 
-## 🎓 Formação
+🎓 Formação
 
-**🎓 Ciências da Computação — UDF (Cursando)**
+🎓 Ciências da Computação — UDF (Cursando)**
 
 * Python, C++, PHP, Estrutura de Dados, Redes
 
-**💻 Informática para Internet — SENAI/SESI**
+💻 Informática para Internet — SENAI/SESI**
 
 * HTML, CSS, JavaScript, Hardware
 
 
-
-## 💡 Projetos em destaque
+💡 Projetos em destaque
 
 * 📊 **Fluxus** — Sistema de controle financeiro
 * ✂️ **Barber HUB** — Plataforma SaaS para barbearias
 
 
 
-## 🎯 Objetivo
+🎯 Objetivo
 
 Me tornar **Desenvolvedor Full Stack**, evoluindo para especialista em **SaaS e Inteligência Artificial**, criando soluções modernas, escaláveis e voltadas a negócios.
 
 
-
-## 📫 Contato
+📫 Contato
 
 * 📧 Email: [gabrielgeovani.contato@gmail.com](mailto:gabrielgeovani.contato@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/gabriel-geovani
@@ -110,7 +108,7 @@ Me tornar **Desenvolvedor Full Stack**, evoluindo para especialista em **SaaS e 
 
 
 
-## 🚀 Filosofia
+🚀 Filosofia
 
 > “Tecnologia, quando bem aplicada, se transforma em solução.”
 
