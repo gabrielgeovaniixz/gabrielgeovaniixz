@@ -1,92 +1,120 @@
-# 👋 Olá, eu sou Gabriel Geovani
+#  Olá, eu sou Gabriel Geovani
 
-🚀 **Desenvolvedor de Software | Focado em SaaS e Inteligência Artificial**  
-🇧🇷 Brasil  
+🚀 **Desenvolvedor Full Stack | Web | Automações | IA**
+🇧🇷 Brasília - DF
 
-Desenvolvo **produtos escaláveis**, **plataformas SaaS** e **sistemas com Inteligência Artificial**.  
-Tenho foco em **performance, código limpo, arquitetura de software e soluções orientadas a negócios**.  
+Sou desenvolvedor com foco em **desenvolvimento web, automações e soluções com Inteligência Artificial**, com experiência prática em projetos e atuação profissional em suporte e operações.
 
-Também busco constantemente evoluir na área de **IA aplicada a problemas reais**, criando soluções modernas e eficientes.
+Busco minha **primeira oportunidade como Desenvolvedor Júnior**, enquanto desenvolvo projetos próprios voltados a **SaaS e soluções digitais para negócios**.
 
----
+
 
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/gabrielgeovaniixz">
-    <img src="https://img.shields.io/badge/GitHub-gabrielgeovaniixz-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/gabrielgeovaniiixz">
+    <img src="https://img.shields.io/badge/GitHub-gabrielgeovaniiixz-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-geovani/">
+  <a href="https://www.linkedin.com/in/gabriel-geovani">
     <img src="https://img.shields.io/badge/LinkedIn-GABRIEL%20GEOVANI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:gabrielgeovani.contat@email.com">
+  <a href="mailto:gabrielgeovani.contato@gmail.com">
     <img src="https://img.shields.io/badge/Email-gabrielgeovani.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
 
-## 🧠 O que eu faço
 
-- 🤖 Desenvolvimento de aplicações com Inteligência Artificial  
-- 🏗️ Criação de plataformas SaaS  
-- ⚡ Sistemas web de alta performance  
-- 🧩 Integração de APIs e serviços  
-- 📊 Soluções orientadas a dados e negócios  
+## 🧠 Sobre mim
 
----
+* 🎯 2 anos de estudo em desenvolvimento
+* 💻 Experiência prática com projetos web e sistemas
+* 🤖 Interesse em IA aplicada a problemas reais
+* 📚 Formação contínua pela Alura
+* 🌎 Inglês intermediário
+
+
 
 ## 🛠️ Tecnologias
 
-### Frontend
+<div align="left">
 
-![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+**Frontend** <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-### Backend
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+**Backend** <img src="https://skillicons.dev/icons?i=php,python,nodejs" />
 
-### Banco de Dados
+<br/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+**Banco de Dados** <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
 
-### Outros
+<br/>
 
-![APIs](https://img.shields.io/badge/APIs-000000?style=for-the-badge)
-![Arquitetura](https://img.shields.io/badge/Arquitetura%20de%20Software-6A5ACD?style=for-the-badge)
-![IA](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FF6F00?style=for-the-badge)
+**Ferramentas & Outros** <img src="https://skillicons.dev/icons?i=git,github" /> <img src="https://img.shields.io/badge/N8N-Automations-FF6D5A?style=flat" /> <img src="https://img.shields.io/badge/API-Integration-000000?style=flat" /> <img src="https://img.shields.io/badge/IA-Applied-FF6F00?style=flat" />
 
----
+</div>
+
+
+
+## 💼 Experiência
+
+**🧾 Agência Contábil — Estagiário (2024)**
+
+* Desenvolvimento de relatórios e planilhas
+* Organização de documentos e contratos
+
+**💻 Kayrós Link — Estagiário (2025)**
+
+* Suporte técnico remoto
+* Configuração de acessos
+* Resolução de problemas de conexão
+
+**🖨️ WN Copiadora — CLT (Atual)**
+
+* Operação de impressão e produção gráfica
+* Criação e ajustes de artes (Canva / CorelDRAW)
+
+
+
+## 🎓 Formação
+
+**🎓 Ciências da Computação — UDF (Cursando)**
+
+* Python, C++, PHP, Estrutura de Dados, Redes
+
+**💻 Informática para Internet — SENAI/SESI**
+
+* HTML, CSS, JavaScript, Hardware
+
+
 
 ## 💡 Projetos em destaque
 
-- 📊 Sistema de controle financeiro (**Fluxus**)  
-- ✂️ Plataforma SaaS para barbearias (**Barber HUB**)  
+* 📊 **Fluxus** — Sistema de controle financeiro
+* ✂️ **Barber HUB** — Plataforma SaaS para barbearias
 
----
+
 
 ## 🎯 Objetivo
 
-Me tornar especialista em **desenvolvimento de SaaS com Inteligência Artificial**, criando produtos escaláveis, inovadores e com alto valor de mercado.
+Me tornar **Desenvolvedor Full Stack**, evoluindo para especialista em **SaaS e Inteligência Artificial**, criando soluções modernas, escaláveis e voltadas a negócios.
 
----
+
 
 ## 📫 Contato
 
-- 📧 Email: gabrielgeovani.contat@email.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-geovani/  
+* 📧 Email: [gabrielgeovani.contato@gmail.com](mailto:gabrielgeovani.contato@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/gabriel-geovani
+* 📱 Telefone: (61) 99220-0216
 
----
+
 
 ## 🚀 Filosofia
 
 > “Tecnologia, quando bem aplicada, se transforma em solução.”
 
----
 
-⭐ Se curtir meus projetos, considere dar uma estrela  
-🤝 Aberto a colaborações, parcerias e novas ideias
+
+⭐ Se curtir meus projetos, considere dar uma estrela
+🤝 Aberto a oportunidades, freelas e colaborações
