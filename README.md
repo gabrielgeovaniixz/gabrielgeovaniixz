@@ -9,7 +9,7 @@ Busco minha **primeira oportunidade como Desenvolvedor Júnior**, enquanto desen
 
 
 
-## 🌐 Onde me encontrar
+ 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/gabrielgeovaniiixz">
