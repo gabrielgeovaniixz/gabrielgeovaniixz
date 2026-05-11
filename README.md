@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Gabriel Geovani 👋</h1>
 
 <h3 align="center">
-🚀 Desenvolvedor Full Stack | React | TypeScript | PHP | Angular | Automações | IA
+🚀 Desenvolvedor Full Stack | React | TypeScript | PHP | Angular | Automações
 </h3>
 
 <p align="center">
@@ -12,11 +12,9 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor com foco em **desenvolvimento web, automações e soluções com Inteligência Artificial**, com experiência prática em projetos, aplicações web/mobile e atuação profissional em suporte e operações.
+Sou desenvolvedor com foco em desenvolvimento web, automações e soluções digitais. Atualmente curso Ciência da Computação e busco minha primeira oportunidade como Desenvolvedor Júnior.
 
-Atualmente curso **Ciência da Computação** e busco minha **primeira oportunidade como Desenvolvedor Júnior**, enquanto desenvolvo projetos próprios voltados a **SaaS, automações e soluções digitais para negócios**.
-
-Tenho experiência com tecnologias modernas do ecossistema web, integração de APIs, bancos de dados e desenvolvimento Full Stack aplicado em projetos reais.
+Tenho experiência prática com aplicações web, bancos de dados, suporte técnico e desenvolvimento de sistemas, além de atuar constantemente em projetos próprios para aprimorar minhas habilidades.
 
 ---
 
@@ -41,12 +39,11 @@ Tenho experiência com tecnologias modernas do ecossistema web, integração de 
 ## 🧠 Sobre mim
 
 * 🎯 2 anos de estudo e prática em desenvolvimento
-* 💻 Experiência com aplicações web, sistemas e automações
-* ⚛️ Foco em React, Front-End moderno e desenvolvimento Full Stack
-* 🤖 Interesse em IA aplicada a problemas reais
+* 💻 Experiência com aplicações web e sistemas
+* ⚛️ Foco em React e desenvolvimento Full Stack
 * 📚 Formação contínua pela plataforma Alura
 * 🌎 Inglês intermediário
-* 🔥 Desenvolvimento de projetos SaaS e soluções digitais
+* 🤖 Interesse em automações e IA
 
 ---
 
@@ -73,8 +70,6 @@ Tenho experiência com tecnologias modernas do ecossistema web, integração de 
 ### Ferramentas & Outros
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 <img src="https://img.shields.io/badge/N8N-Automations-FF6D5A?style=flat" />
-<img src="https://img.shields.io/badge/API-Integration-000000?style=flat" />
-<img src="https://img.shields.io/badge/IA-Applied-FF6F00?style=flat" />
 
 </div>
 
@@ -87,7 +82,7 @@ Tenho experiência com tecnologias modernas do ecossistema web, integração de 
 
 * Desenvolvimento de relatórios e planilhas
 * Organização de documentos e contratos
-* Apoio em demandas administrativas e operacionais
+* Apoio em demandas administrativas
 
 ---
 
@@ -97,7 +92,7 @@ Tenho experiência com tecnologias modernas do ecossistema web, integração de 
 * Suporte técnico remoto
 * Configuração de acessos
 * Resolução de problemas de conexão
-* Monitoramento e registro de ocorrências em sistema interno
+* Registro de ocorrências em sistema interno
 
 ---
 
@@ -105,8 +100,8 @@ Tenho experiência com tecnologias modernas do ecossistema web, integração de 
 📅 Novembro 2025 → Março 2026
 
 * Operação de impressão, plotagem e produção gráfica
-* Criação e ajustes de artes utilizando Canva e CorelDRAW
-* Atendimento e suporte em demandas gráficas
+* Ajustes de artes utilizando Canva e CorelDRAW
+* Atendimento em demandas gráficas
 
 ---
 
@@ -133,22 +128,9 @@ Tenho experiência com tecnologias modernas do ecossistema web, integração de 
 
 ---
 
-## 💡 Projetos em destaque
-
-### 📊 Fluxus
-Sistema de controle financeiro com dashboard, gerenciamento de transações e foco em organização financeira.
-
-### ✂️ Barber HUB
-Plataforma SaaS para barbearias com gerenciamento de clientes, agendamentos e serviços.
-
-### 📅 Gestta
-Sistema SaaS de agendamento adaptável para múltiplos nichos, como clínicas, salões e consultórios.
-
----
-
 ## 🎯 Objetivo
 
-Me tornar **Desenvolvedor Full Stack**, evoluindo para especialista em **SaaS, automações e Inteligência Artificial**, criando soluções modernas, escaláveis e voltadas a negócios.
+Crescer profissionalmente como Desenvolvedor Full Stack, adquirindo experiência prática e evoluindo no desenvolvimento de aplicações modernas e soluções digitais.
 
 ---
 
@@ -160,11 +142,4 @@ Me tornar **Desenvolvedor Full Stack**, evoluindo para especialista em **SaaS, a
 
 ---
 
-## 🚀 Filosofia
-
-> “Tecnologia, quando bem aplicada, se transforma em solução.”
-
----
-
-⭐ Se curtir meus projetos, considere dar uma estrela  
-🤝 Aberto a oportunidades, freelas e colaborações
+⭐ Aberto a oportunidades, freelas e colaborações
